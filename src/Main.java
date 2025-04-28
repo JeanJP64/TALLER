@@ -1,5 +1,8 @@
-// COLUMBA JAMES- PERALTA JEAN
-
+/*
+     INTEGRANTES:
+     -COLUMBA JAMES
+     -PERALTA JEAN
+*/
 import java.util.Scanner;
 
 public class Main {
